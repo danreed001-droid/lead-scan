@@ -1,0 +1,16 @@
+{
+  "days": 14,
+  "total_permits": 1872,
+  "by_trade": {
+    "new_construction": 274,
+    "commercial_fitout": 205,
+    "roofing": 167,
+    "hvac": 135,
+    "kitchen_bath": 117,
+    "demolition": 87,
+    "pool_deck_fence": 70,
+    "signs": 34,
+    "solar": 19
+  },
+  "unclassified": 919
+}
